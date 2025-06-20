@@ -1,6 +1,8 @@
-Thanks for downloading this template!
+Flexor
+Paleta https://mycolor.space/?hex=%2363B32E&sub=1
 
-Template Name: Flexor
-Template URL: https://bootstrapmade.com/flexor-free-multipurpose-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+ff5821 por 63B32E
+ffcbba por B1E693 
+ff7e54 por 00A35A
+
+รก
